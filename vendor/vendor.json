@@ -1,0 +1,9 @@
+{
+  "comment": "",
+  "ignore": "test",
+  "heroku": {
+    "goVersion": "go1.11.4"
+  },
+  "package": [],
+  "rootPath": "github.com/askalski85/sunday-heroku-go"
+}
